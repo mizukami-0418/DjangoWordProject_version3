@@ -1,0 +1,2 @@
+# DjangoWordProject_version3
+単語帳アプリをクラスベースビューで作成する
